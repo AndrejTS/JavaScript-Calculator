@@ -2,4 +2,4 @@
 
 Simple Calculator
 
-[Try it :)](https://andrejts.github.io/JavaScript-Calculator/)
+[Try it :)](https://andrejts.github.io/ReactJS-Calculator/)
